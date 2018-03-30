@@ -1,0 +1,201 @@
+2018-01-31 14:33:14,178 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:33:14,180 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.14
+2018-01-31 14:33:16,161 urllib3.connectionpool DEBUG: http://106.5.135.14:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:34:31,125 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:34:31,134 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:34:31,137 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.205
+2018-01-31 14:34:32,582 urllib3.connectionpool DEBUG: http://106.5.135.205:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:38:34,173 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:38:34,174 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.214.85
+2018-01-31 14:38:34,970 urllib3.connectionpool DEBUG: http://115.150.214.85:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:39:37,677 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:39:37,686 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:39:37,687 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.198
+2018-01-31 14:39:38,453 urllib3.connectionpool DEBUG: http://106.5.135.198:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:43:18,006 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:43:18,085 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:43:42,006 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:43:42,105 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:43:42,145 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:43:42,147 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:43:42,148 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.157
+2018-01-31 14:43:42,973 urllib3.connectionpool DEBUG: http://59.52.91.157:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:43:47,519 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:43:47,611 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:43:47,647 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:43:47,648 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:43:47,650 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.68
+2018-01-31 14:43:48,447 urllib3.connectionpool DEBUG: http://115.150.215.68:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:23,032 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:23,132 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:23,171 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:23,171 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:23,174 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.90.110
+2018-01-31 14:44:23,927 urllib3.connectionpool DEBUG: http://59.52.90.110:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:23,930 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:24,010 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:24,042 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:24,042 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:24,043 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.214.96
+2018-01-31 14:44:24,615 urllib3.connectionpool DEBUG: http://115.150.214.96:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:24,617 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:24,690 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:24,720 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:24,721 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:24,723 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 111.79.23.253
+2018-01-31 14:44:25,365 urllib3.connectionpool DEBUG: http://111.79.23.253:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:44:25,368 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:25,490 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:25,536 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:25,538 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:25,539 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.79
+2018-01-31 14:44:26,173 urllib3.connectionpool DEBUG: http://59.52.91.79:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 30
+2018-01-31 14:44:26,174 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:26,313 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:26,368 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:26,369 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:26,371 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.235
+2018-01-31 14:44:27,206 urllib3.connectionpool DEBUG: http://106.5.135.235:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:44:27,207 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:27,282 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:27,315 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:27,315 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:27,316 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.199
+2018-01-31 14:44:27,825 urllib3.connectionpool DEBUG: http://115.150.215.199:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 34
+2018-01-31 14:44:27,828 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:27,973 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:28,016 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:28,016 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:28,017 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.125
+2018-01-31 14:44:28,799 urllib3.connectionpool DEBUG: http://59.52.91.125:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:28,801 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:28,868 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:28,897 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:28,898 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:28,898 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.100
+2018-01-31 14:44:29,674 urllib3.connectionpool DEBUG: http://59.52.91.100:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:29,676 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:29,759 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:29,792 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:29,793 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:29,795 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.198
+2018-01-31 14:44:30,460 urllib3.connectionpool DEBUG: http://106.5.135.198:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:44:30,461 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:30,539 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:30,572 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:30,572 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:30,573 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.68
+2018-01-31 14:44:31,312 urllib3.connectionpool DEBUG: http://115.150.215.68:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:31,313 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:31,385 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:31,417 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:31,417 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:31,418 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 182.103.30.2
+2018-01-31 14:44:32,161 urllib3.connectionpool DEBUG: http://182.103.30.2:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:32,161 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:32,262 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:32,299 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:32,301 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:32,302 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.116
+2018-01-31 14:44:33,079 urllib3.connectionpool DEBUG: http://115.150.215.116:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 34
+2018-01-31 14:44:33,082 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:33,180 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:33,216 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:33,217 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:33,217 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.214.28
+2018-01-31 14:44:33,947 urllib3.connectionpool DEBUG: http://115.150.214.28:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:33,950 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:34,016 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:34,043 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:34,045 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:34,046 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 117.40.118.138
+2018-01-31 14:44:34,865 urllib3.connectionpool DEBUG: http://117.40.118.138:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:34,867 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:34,934 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:34,961 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:34,963 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:35,707 urllib3.connectionpool DEBUG: http://59.52.91.125:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:35,709 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:35,795 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:35,832 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:35,835 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:35,836 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 182.103.28.166
+2018-01-31 14:44:36,381 urllib3.connectionpool DEBUG: http://182.103.28.166:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:36,382 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:36,447 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:36,484 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:36,486 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:36,487 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.83
+2018-01-31 14:44:37,224 urllib3.connectionpool DEBUG: http://115.150.215.83:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 33
+2018-01-31 14:44:37,226 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:37,299 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:37,326 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:37,328 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:37,329 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.134.247
+2018-01-31 14:44:38,088 urllib3.connectionpool DEBUG: http://106.5.134.247:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:44:38,089 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:38,187 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:38,223 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:38,223 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:38,226 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.48
+2018-01-31 14:44:38,887 urllib3.connectionpool DEBUG: http://59.52.91.48:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 30
+2018-01-31 14:44:38,888 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:38,993 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:39,032 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:39,033 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:39,035 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.89.133
+2018-01-31 14:44:39,698 urllib3.connectionpool DEBUG: http://59.52.89.133:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:39,700 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:39,799 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:39,839 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:39,841 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:39,842 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.91.146
+2018-01-31 14:44:40,592 urllib3.connectionpool DEBUG: http://59.52.91.146:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:40,595 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:40,694 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:40,732 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:40,733 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:40,733 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.88.93
+2018-01-31 14:44:41,394 urllib3.connectionpool DEBUG: http://59.52.88.93:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 30
+2018-01-31 14:44:41,397 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:41,486 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:41,523 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:41,526 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:41,526 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 115.150.215.165
+2018-01-31 14:44:42,213 urllib3.connectionpool DEBUG: http://115.150.215.165:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 34
+2018-01-31 14:44:42,214 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:42,286 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:42,315 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:42,315 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:42,318 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.135.14
+2018-01-31 14:44:43,082 urllib3.connectionpool DEBUG: http://106.5.135.14:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 31
+2018-01-31 14:44:43,084 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:43,206 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:43,252 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:43,253 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:43,253 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 106.5.134.226
+2018-01-31 14:44:43,812 urllib3.connectionpool DEBUG: http://106.5.134.226:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-01-31 14:44:43,815 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): nc-11.f3322.net
+2018-01-31 14:44:43,884 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:43,911 urllib3.connectionpool DEBUG: http://nc-11.f3322.net:1022 "POST /login.php HTTP/1.1" 200 5875
+2018-01-31 14:44:43,914 http_requests DEBUG: 此时获取代理列表不为空
+2018-01-31 14:44:43,914 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 59.52.90.47
+2018-02-01 10:31:08,197 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 127.0.0.1
+2018-02-01 10:31:08,770 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5875
+2018-02-01 10:31:08,944 urllib3.connectionpool DEBUG: Resetting dropped connection: 127.0.0.1
+2018-02-01 10:31:09,503 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5875
+2018-02-01 10:31:09,681 http_requests DEBUG: 此时获取代理列表不为空
+2018-02-01 10:31:09,684 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 117.40.118.193
+2018-02-01 10:59:45,201 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 127.0.0.1
+2018-02-01 10:59:45,563 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5876
+2018-02-01 10:59:45,657 urllib3.connectionpool DEBUG: Resetting dropped connection: 127.0.0.1
+2018-02-01 10:59:46,283 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5876
+2018-02-01 10:59:46,467 http_requests DEBUG: 此时获取代理列表不为空
+2018-02-01 10:59:46,469 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 111.76.43.109
+2018-02-01 10:59:47,867 urllib3.connectionpool DEBUG: http://111.76.43.109:65000 "GET http://www.httpbin.org/ip HTTP/1.1" 200 32
+2018-02-01 10:59:47,868 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 127.0.0.1
+2018-02-01 10:59:48,221 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5876
+2018-02-01 10:59:48,437 urllib3.connectionpool DEBUG: Resetting dropped connection: 127.0.0.1
+2018-02-01 10:59:53,959 urllib3.connectionpool DEBUG: http://127.0.0.1:1080 "POST http://nc-11.f3322.net:1022/login.php HTTP/1.1" 200 5876
+2018-02-01 10:59:54,546 http_requests DEBUG: 此时获取代理列表不为空
+2018-02-01 10:59:54,548 urllib3.connectionpool DEBUG: Starting new HTTP connection (1): 117.43.156.24
